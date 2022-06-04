@@ -1,0 +1,6 @@
+09f37b4b26aa99ff6a4d0c14a7dba0d0d4f6f016 (HEAD -> main, origin/main) Dzień Środowiska - celbracja
+293ac913dcd5d8991329835fdefda2354c92f867 Merge pull request #1 from BlachaWojciech/environment
+60cc6d6036d32991fb3fd09ac90371e941d9cdd2 (tag: v4.2, origin/environment) Deklaracja Sztokholmska
+79a962e119cf6262066463c8780f59e12c87753a Ustanowienie ŚDŚ
+52bc150299b1c4ea5f568cefd86aed416cecfd3c Światowy Dzień Środowiska
+02efc52002a373918748c1a01ecb3de63f45e020 Initial commit
